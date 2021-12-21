@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "6c5a389fdc7d6982",
+    "type": "split",
+    "children": [
+      {
+        "id": "e972eb75fcb61096",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/HTTP权威指南.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cf5c4dbd46a66ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b330fdba65f0d412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab8fb1aea7a20893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fccd24a2fe6823a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27bd8093461e3048",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a72395a8f7a365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0a5a936050a812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/HTTP权威指南.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e972eb75fcb61096",
+  "lastOpenFiles": [
+    "notes/HTTP权威指南.md"
+  ]
+}
